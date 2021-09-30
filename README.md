@@ -79,15 +79,6 @@ Food ideas
 - [ ] Granola
 - [ ] Oatmeal 
 
-Car camping equipment 
-- [ ] Big shady
-- [ ] Camping stove
-- [ ] Camping fuel 
-- [ ] Table
-- [ ] Camping chairs
-- [ ] Pocket rocket
-- [ ] Camping pots
-
 Clothes 
 - [ ] Hiking boots
 - [ ] Warm layers
