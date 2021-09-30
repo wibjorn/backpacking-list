@@ -1,5 +1,6 @@
 # Backpacking Packing List
 
+## General gear 
 - [ ] Water bottles
 - [ ] Clothes (see below)
 - [ ] Camelbak 
@@ -50,18 +51,8 @@
 - [ ] Body glide
 - [ ] Deodorant 
 
-Leave in the car list
-- [ ] Cooler
-- [ ] Lunch
-- [ ] Fork/spoon for lunch
-- [ ] Change of clothes for car 
-- [ ] Chips
-o   Gatorade
-o   Water
-o   Energy bars
 
-Food ideas
-
+## Food ideas
 - [ ] Trail mix
 - [ ] Granola bars
 - [ ] Cracker
@@ -79,7 +70,7 @@ Food ideas
 - [ ] Granola
 - [ ] Oatmeal 
 
-Clothes 
+## Clothes 
 - [ ] Hiking boots
 - [ ] Warm layers
 - [ ] Shirts
@@ -87,4 +78,14 @@ Clothes
 - [ ] Underwear 
 - [ ] Hat
 - [ ] Shell
+
+## Leave in the car list
+- [ ] Cooler
+- [ ] Lunch
+- [ ] Fork/spoon for lunch
+- [ ] Change of clothes for car 
+- [ ] Chips
+- [ ]  Gatorade
+- [ ] Water
+- [ ] Energy bars
 
